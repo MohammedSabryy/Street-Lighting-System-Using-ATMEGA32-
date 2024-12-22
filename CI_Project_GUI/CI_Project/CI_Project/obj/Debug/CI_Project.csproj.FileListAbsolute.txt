@@ -1,0 +1,40 @@
+E:\Playground\.Net\CI_Project\CI_Project\bin\Debug\CI_Project.exe.config
+E:\Playground\.Net\CI_Project\CI_Project\bin\Debug\CI_Project.exe
+E:\Playground\.Net\CI_Project\CI_Project\bin\Debug\CI_Project.pdb
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.AssemblyReference.cache
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.Properties.Resources.resources
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.GenerateResource.cache
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.CoreCompileInputs.cache
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.exe
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.pdb
+E:\Playground\.Net\CI_Project\CI_Project\obj\Debug\CI_Project.Form1.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.exe.config
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.exe
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.Form1.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.Properties.Resources.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.GenerateResource.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.exe
+C:\Users\LAPTOP\OneDrive\Desktop\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.exe.config
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.exe
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.Form1.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.Properties.Resources.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.GenerateResource.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.exe
+C:\Users\LAPTOP\OneDrive\Desktop\CI pro\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.exe.config
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.exe
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\bin\Debug\CI_Project.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.Form1.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.Properties.Resources.resources
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.GenerateResource.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.exe
+C:\Users\LAPTOP\OneDrive\Desktop\CI proj finaal\CI_Project\CI_Project\CI_Project\obj\Debug\CI_Project.pdb
